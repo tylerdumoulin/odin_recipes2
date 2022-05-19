@@ -1,1 +1,2 @@
-# odin_recipes2
+This is my second attempt at the Odin Recipes project.
+On the first try I had difficulties with using git. I was having trouble pushing my could to github. This second version is my attempt to troubleshoot the problem.# odin_recipes2
