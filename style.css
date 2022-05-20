@@ -3,7 +3,13 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-p {
+a {
     background-color: yellow;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:chocolate;
+    
+}
+
+* {
+    background-color: blueviolet;
 }
